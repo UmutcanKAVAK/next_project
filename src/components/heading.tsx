@@ -1,5 +1,5 @@
 import { LucideIcon } from "lucide-react";
-import { Head } from "next/document";
+
 import React from "react";
 import { cn } from "@/lib/utils";
 interface HeadingProps {
