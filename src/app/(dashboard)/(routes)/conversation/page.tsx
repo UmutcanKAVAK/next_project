@@ -77,7 +77,7 @@ const ConversationPage = () => {
                       <Input
                         className="border-0 outline-none focus-visible:ring-0 focus-visible:ring-transparent"
                         disabled={isLoading}
-                        placeholder="Cemberin Alanini nasil hesaplarim?"
+                        placeholder="How Do I calculate the area of a circle?"
                         {...field}
                       />
                     </FormControl>

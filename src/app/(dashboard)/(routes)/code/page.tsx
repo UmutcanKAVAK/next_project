@@ -78,7 +78,7 @@ const ConversationPage = () => {
                       <Input
                         className="border-0 outline-none focus-visible:ring-0 focus-visible:ring-transparent"
                         disabled={isLoading}
-                        placeholder="Basit bir hesap makinasi uygulamasi c# kullanarak."
+                        placeholder="Simple Calculator using C#."
                         {...field}
                       />
                     </FormControl>

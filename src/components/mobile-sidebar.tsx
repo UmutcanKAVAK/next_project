@@ -19,6 +19,7 @@ const MobileSideBar = () => {
   if (!isMounted) {
     return null;
   }
+
   return (
     <div>
       <Sheet>
